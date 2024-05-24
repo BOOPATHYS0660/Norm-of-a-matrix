@@ -36,13 +36,13 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![Screenshot 2024-05-24 101735](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/ab175164-67b2-405f-8889-5a55dbd71b85)
+![Screenshot 2024-05-24 154928](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/07b7d728-802d-46cc-bc6c-8f3370f261be)
 
 ### 2-Norm of a Matrix
-![Screenshot 2024-05-24 101808](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/27a5be87-5fbb-41df-94fa-517e1ba7825b)
+![Screenshot 2024-05-24 154941](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/c8e1bb04-9c35-49e8-aab8-f91ab61d2a86)
 
 ### Infinity Norm of a Matrix
-![Screenshot 2024-05-24 101823](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/2ab2f30a-6e3e-4b31-b4f5-ff73ba3852b8)
+![Screenshot 2024-05-24 154956](https://github.com/BOOPATHYS0660/Norm-of-a-matrix/assets/155909381/47bc089e-e1cf-4366-af00-c5af711a5221)
 
 
 ## Result
